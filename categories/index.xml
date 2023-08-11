@@ -5,12 +5,12 @@
     
     
     
-    <link>http://example.org/categories/</link>
+    <link>https://christofinana.github.io/categories/</link>
     <description>Recent content in Categories on Antriana Christofi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christofinana.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

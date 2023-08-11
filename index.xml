@@ -5,21 +5,21 @@
     
     
     
-    <link>http://example.org/</link>
+    <link>https://christofinana.github.io/</link>
     <description>Recent content on Antriana Christofi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 17 Sep 1986 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christofinana.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://christofinana.github.io/about/</link>
       <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://christofinana.github.io/about/</guid>
       <description>
         
           
@@ -40,10 +40,10 @@ light/dark mode, depending on your preferences great reading experience thanks t
     
     <item>
       <title>Showcase</title>
-      <link>http://example.org/showcase/</link>
+      <link>https://christofinana.github.io/showcase/</link>
       <pubDate>Fri, 18 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/showcase/</guid>
+      <guid>https://christofinana.github.io/showcase/</guid>
       <description>
         
           
@@ -60,13 +60,13 @@ light/dark mode, depending on your preferences great reading experience thanks t
     
     <item>
       <title>Hello Friend</title>
-      <link>http://example.org/post/hello/</link>
+      <link>https://christofinana.github.io/post/hello/</link>
       <pubDate>Wed, 17 Sep 1986 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/hello/</guid>
+      <guid>https://christofinana.github.io/post/hello/</guid>
       <description>
         
-          &lt;img src=&#34;http://example.org/img/hello.jpg&#34;/&gt;
+          &lt;img src=&#34;https://christofinana.github.io/img/hello.jpg&#34;/&gt;
           
         
         

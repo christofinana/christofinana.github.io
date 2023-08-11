@@ -5,12 +5,12 @@
     
     
     
-    <link>http://example.org/tags/</link>
+    <link>https://christofinana.github.io/tags/</link>
     <description>Recent content in Tags on Antriana Christofi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christofinana.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
